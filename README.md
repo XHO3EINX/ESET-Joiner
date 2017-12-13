@@ -11,6 +11,13 @@ git clone https://github.com/Kia-Pashang/ESET-Joiner.git && cd ESET-Joiner && ch
 
 ./ESET.sh login
 
+سپس وارد پوشه :
+Libs
+بشوید و فایل 
+Config.lua
+رو باز کنید
+سپس آیدی عددی سودو و ربات رو ست کنید سپس آن را ذخیره و ببندید
+
 برای اجرای سورس هم از دستور زیر استفاده کنید 
 
 ./ESET.sh run
