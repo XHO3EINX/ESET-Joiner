@@ -3,6 +3,10 @@ ESET Joiner Version 1 Based On Telegram-Bot
 
 راهنمای نصب ربات : 
 
+نصب سورس در ورژن رایگان فقط 1 اکانت بر روی هر سرور میباشد.
+درصورت نصب چند اکانت بر روی سرور با مشکل تداخل ردیس ربات ها مواجه میشوید.
+برای خرید ورژن چند اکانتی به پی وی سازنده مراجعه کنید.
+
 دستور زیر را در ترمینال سرور خود بزنید :
 
 git clone https://github.com/Kia-Pashang/ESET-Joiner.git && cd ESET-Joiner && chmod +x ESET.sh && ./ESET.sh install
