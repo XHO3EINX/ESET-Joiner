@@ -36,14 +36,11 @@ screen ./ESET.sh run
 
 در صورت برخورد با ارور زیر : 
 
-user/bin/env: 'bash/r': No Such File Or Directory
+usr/bin/env: 'bash/r': No Such File Or Directory
 
-از دستوات زیر استفاده کنید
+وارد سایت زیر بیشد
 
-sudo apt-get install dos2unix # کد نصب
-
-find . -type f -exec dos2unix {} \; # کد اجرایی
-
+https://stackoverflow.com/questions/29045140/env-bash-r-no-such-file-or-directory
 
 سپس مراحل راه اندازی ربات را از نو انجام دهید.
 
