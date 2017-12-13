@@ -40,11 +40,9 @@ user/bin/env: 'bash/r': No Such File Or Directory
 
 از دستوات زیر استفاده کنید
 
+sudo apt-get install dos2unix # کد نصب
 
-# sudo apt-get install dos2unix
-
-
-# find . -type f -exec dos2unix {} \;
+find . -type f -exec dos2unix {} \; # کد اجرایی
 
 
 سپس مراحل راه اندازی ربات را از نو انجام دهید.
