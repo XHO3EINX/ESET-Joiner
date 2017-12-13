@@ -38,7 +38,7 @@ screen ./ESET.sh run
 
 usr/bin/env: 'bash/r': No Such File Or Directory
 
-وارد سایت زیر بیشد
+وارد سایت زیر بشید :
 
 https://stackoverflow.com/questions/29045140/env-bash-r-no-such-file-or-directory
 
